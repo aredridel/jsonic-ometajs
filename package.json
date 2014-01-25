@@ -1,6 +1,6 @@
 {
   "name": "jsonic-ometajs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parse a JSON dialect with comments",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "url": "https://github.com/aredridel/jsonic-ometajs/issues"
   },
   "dependencies": {
-    "json-ometajs": "0.0.1"
+    "json-ometajs": "~0.1.0"
   },
   "devDependencies": {
     "ometajs": "~3.2.4",
