@@ -1,9 +1,10 @@
 {
   "name": "jsonic-ometajs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Parse a JSON dialect with comments",
   "main": "index.js",
   "scripts": {
+    "prepublish": "ometajs2js -i index.ometajs -o index.js",
     "test": "tap ./test"
   },
   "repository": {
@@ -21,10 +22,10 @@
     "url": "https://github.com/aredridel/jsonic-ometajs/issues"
   },
   "dependencies": {
-    "json-ometajs": "0.0.1",
-    "ometajs": "~3.2.4"
+    "json-ometajs": "0.0.1"
   },
   "devDependencies": {
+    "ometajs": "~3.2.4",
     "tap": "~0.4.3"
   }
 }
