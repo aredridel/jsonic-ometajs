@@ -1,6 +1,6 @@
 {
   "name": "jsonic-ometajs",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "Parse a JSON dialect with comments",
   "main": "index.js",
   "scripts": {
