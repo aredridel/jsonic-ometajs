@@ -22,7 +22,7 @@
     "url": "https://github.com/aredridel/jsonic-ometajs/issues"
   },
   "dependencies": {
-    "json-ometajs": "2.0.0"
+    "json-ometajs": "^3.0.0"
   },
   "devDependencies": {
     "ometajs": "^4.0.0",
