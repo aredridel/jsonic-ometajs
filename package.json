@@ -12,8 +12,8 @@
     "url": "git://github.com/aredridel/jsonic-ometajs.git"
   },
   "keywords": [
-    "json",
     "comment",
+    "json",
     "ometa"
   ],
   "author": "Aria Stewart <aredridel@nbtsc.org>",
